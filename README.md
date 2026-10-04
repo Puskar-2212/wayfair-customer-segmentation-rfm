@@ -187,17 +187,6 @@ All output deliverables are automatically refreshed in `outputs/`:
 
 ---
 
-## 💼 Resume & Interview Bullet Points
-
-```markdown
-- Spearheaded customer segmentation for e-commerce store (Wayfair case) utilizing RFM modeling as of Jan 1, 2026 cutoff across 9.2k orders and 2.0k active customers.
-- Engineered a hybrid modular architecture with decoupled Python production modules (src/) and an executive presentation Jupyter Notebook (notebooks/).
-- Addressed zero-variance frequency ties using rank-based quintile scoring, mapping customers into 7 actionable segments.
-- Uncovered that 43.3% of customers (Champions & Loyalists) drove 82.4% ($1.56M) of total revenue, authoring personalized CRM playbooks and KPI scorecards to maximize retention and CLV.
-- Conducted Chi-Square statistical tests (p < 0.001) demonstrating significant differences in customer lifetime value across acquisition channels.
-```
-
----
-
 ## 📄 License
 This project is open-source under the [MIT License](LICENSE).
+
